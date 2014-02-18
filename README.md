@@ -1,4 +1,4 @@
 linux-shellconfig
 =================
 
-My shell configs
+My basic shell config for the most of my servers and workstations.
